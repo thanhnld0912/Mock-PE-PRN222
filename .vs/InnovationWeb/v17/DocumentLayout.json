@@ -1,138 +1,138 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\FPT\\PE PRN222\\",
+  "WorkspaceRootPath": "D:\\FPT\\CN7\\Mock-PE-PRN222\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\student\\createproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\views\\student\\createproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\student\\createproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\models\\createprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\models\\createprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\models\\createprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\student\\createteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\views\\student\\createteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\student\\createteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\lecturer\\getproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\views\\lecturer\\getproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\lecturer\\getproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\lecturer\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\views\\lecturer\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\lecturer\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\scorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\innovationweb\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9D5A0D-531E-41F3-9635-4DABAA9462FB}|Service\\Service.csproj|e:\\fpt\\pe prn222\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B9D5A0D-531E-41F3-9635-4DABAA9462FB}|Service\\Service.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9D5A0D-531E-41F3-9635-4DABAA9462FB}|Service\\Service.csproj|solutionrelative:service\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B9D5A0D-531E-41F3-9635-4DABAA9462FB}|Service\\Service.csproj|e:\\fpt\\pe prn222\\service\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2B9D5A0D-531E-41F3-9635-4DABAA9462FB}|Service\\Service.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\service\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B9D5A0D-531E-41F3-9635-4DABAA9462FB}|Service\\Service.csproj|solutionrelative:service\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\iscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\iscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\iscoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\iprojectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\iprojectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\iprojectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\iteamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\iteamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\iteamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\iuserdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DataAccessObjects.csproj|solutionrelative:dataaccessobjects\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\projectdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\teamdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|d:\\fpt\\cn7\\mock-pe-prn222\\dataaccessobjects\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,7 +142,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 24,
+          "SelectedChildIndex": 22,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,7 +162,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -171,10 +171,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
@@ -202,6 +198,10 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{a5174402-226b-48da-aa5c-91376ed45871}"
             },
             {
@@ -213,29 +213,12 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateProjectModel.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Models\\CreateProjectModel.cs",
-              "RelativeDocumentMoniker": "InnovationWeb\\Models\\CreateProjectModel.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Models\\CreateProjectModel.cs",
-              "RelativeToolTip": "InnovationWeb\\Models\\CreateProjectModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:19:34.574Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "LoginModel.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Models\\LoginModel.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Models\\LoginModel.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Models\\LoginModel.cs",
               "RelativeToolTip": "InnovationWeb\\Models\\LoginModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -246,9 +229,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Login.cshtml",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Login.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Home\\Login.cshtml",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Login.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Home\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -259,9 +242,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\StudentController.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\StudentController.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\StudentController.cs",
               "RelativeToolTip": "InnovationWeb\\Controllers\\StudentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -272,9 +255,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CreateTeam.cshtml",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -285,9 +268,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CreateProject.cshtml",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Student\\CreateProject.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Student\\CreateProject.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Student\\CreateProject.cshtml",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Student\\CreateProject.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Student\\CreateProject.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Student\\CreateProject.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -298,22 +281,35 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "LecturerController.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\LecturerController.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\LecturerController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\LecturerController.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\LecturerController.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\LecturerController.cs",
               "RelativeToolTip": "InnovationWeb\\Controllers\\LecturerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T03:15:27.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProjectModel.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Models\\CreateProjectModel.cs",
+              "RelativeDocumentMoniker": "InnovationWeb\\Models\\CreateProjectModel.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Models\\CreateProjectModel.cs",
+              "RelativeToolTip": "InnovationWeb\\Models\\CreateProjectModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T03:19:34.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Home\\Index.cshtml",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -324,9 +320,9 @@
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ProjectDetails.cshtml",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -337,9 +333,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GetProject.cshtml",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -350,9 +346,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "ScoreController.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\ScoreController.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\ScoreController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\ScoreController.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\ScoreController.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\ScoreController.cs",
               "RelativeToolTip": "InnovationWeb\\Controllers\\ScoreController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -363,9 +359,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TeamController.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\TeamController.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\TeamController.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\TeamController.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\TeamController.cs",
               "RelativeToolTip": "InnovationWeb\\Controllers\\TeamController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,9 +372,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UserController.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\UserController.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\UserController.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\UserController.cs",
               "RelativeToolTip": "InnovationWeb\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -389,9 +385,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "ProjectController.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\ProjectController.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\ProjectController.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\ProjectController.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\InnovationWeb\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "InnovationWeb\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -402,9 +398,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "ProjectService.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Service\\ProjectService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Service\\ProjectService.cs",
               "RelativeDocumentMoniker": "Service\\ProjectService.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Service\\ProjectService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Service\\ProjectService.cs",
               "RelativeToolTip": "Service\\ProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -415,9 +411,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "IProjectService.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Service\\IProjectService.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Service\\IProjectService.cs",
               "RelativeDocumentMoniker": "Service\\IProjectService.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Service\\IProjectService.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Service\\IProjectService.cs",
               "RelativeToolTip": "Service\\IProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -428,9 +424,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "ScoreRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\ScoreRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\ScoreRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ScoreRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\ScoreRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\ScoreRepository.cs",
               "RelativeToolTip": "Repository\\ScoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -441,9 +437,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "ProjectRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\ProjectRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ProjectRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\ProjectRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\ProjectRepository.cs",
               "RelativeToolTip": "Repository\\ProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -454,9 +450,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\UserRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\UserRepository.cs",
               "RelativeToolTip": "Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,9 +463,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "TeamRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\TeamRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\TeamRepository.cs",
               "RelativeDocumentMoniker": "Repository\\TeamRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\TeamRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\TeamRepository.cs",
               "RelativeToolTip": "Repository\\TeamRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -480,9 +476,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "IScoreRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\IScoreRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\IScoreRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IScoreRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\IScoreRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\IScoreRepository.cs",
               "RelativeToolTip": "Repository\\IScoreRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -493,9 +489,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "IProjectRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\IProjectRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IProjectRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\IProjectRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\IProjectRepository.cs",
               "RelativeToolTip": "Repository\\IProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -506,9 +502,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "ITeamRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\ITeamRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\ITeamRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ITeamRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\ITeamRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\ITeamRepository.cs",
               "RelativeToolTip": "Repository\\ITeamRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -519,9 +515,9 @@
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "IUserRepository.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\IUserRepository.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\Repository\\IUserRepository.cs",
               "RelativeToolTip": "Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,9 +528,9 @@
               "$type": "Document",
               "DocumentIndex": 24,
               "Title": "IScoreDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IScoreDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\IScoreDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\IScoreDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IScoreDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\IScoreDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\IScoreDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -545,9 +541,9 @@
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "IProjectDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IProjectDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\IProjectDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\IProjectDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IProjectDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\IProjectDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\IProjectDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -558,9 +554,9 @@
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "ITeamDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ITeamDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\ITeamDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\ITeamDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ITeamDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\ITeamDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\ITeamDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -571,9 +567,9 @@
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "IUserDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IUserDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\IUserDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\IUserDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IUserDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\IUserDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\IUserDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -582,11 +578,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 29,
               "Title": "ScoreDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ScoreDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\ScoreDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\ScoreDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ScoreDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\ScoreDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\ScoreDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -597,9 +593,9 @@
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "ProjectDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ProjectDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\ProjectDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\ProjectDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ProjectDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\ProjectDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\ProjectDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -608,11 +604,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "TeamDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\TeamDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\TeamDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\TeamDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\TeamDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\TeamDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\TeamDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -621,11 +617,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "UserDAO.cs",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\UserDAO.cs",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\UserDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\UserDAO.cs",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\UserDAO.cs",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\UserDAO.cs",
               "RelativeToolTip": "DataAccessObjects\\UserDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -634,11 +630,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 28,
               "Title": "DAO.csproj",
-              "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\DAO.csproj",
+              "DocumentMoniker": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\DAO.csproj",
               "RelativeDocumentMoniker": "DataAccessObjects\\DAO.csproj",
-              "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\DAO.csproj",
+              "ToolTip": "D:\\FPT\\CN7\\Mock-PE-PRN222\\DataAccessObjects\\DAO.csproj",
               "RelativeToolTip": "DataAccessObjects\\DAO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
