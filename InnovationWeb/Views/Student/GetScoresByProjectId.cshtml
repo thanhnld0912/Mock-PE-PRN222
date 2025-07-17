@@ -1,0 +1,22 @@
+﻿@model IEnumerable<BusinessObjects.Score>
+
+<h2>Scores for Project</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Lecturer</th>
+            <th>Score</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var score in Model)
+        {
+            <tr>
+                <td>@score.Lecturer.FullName</td>
+                <td>@score.Score1</td>
+                <td>@score.Comment</td>
+            </tr>
+        }
+    </tbody>
+</table>

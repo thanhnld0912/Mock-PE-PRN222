@@ -1,0 +1,27 @@
+﻿@model BusinessObjects.Team
+
+<h2>Team Details</h2>
+<p>Team Name: @Model.TeamName</p>
+<p>Description: @Model.Description</p>
+<p>Leader: @Model.Leader.FullName</p>
+
+<h3>Projects</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Summary</th>
+            <th>Approval Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var project in Model.Projects)
+        {
+            <tr>
+                <td>@project.Title</td>
+                <td>@project.Summary</td>
+                <td>@(project.IsApproved == true ? "Approved" : "Pending")</td>
+            </tr>
+        }
+    </tbody>
+</table>

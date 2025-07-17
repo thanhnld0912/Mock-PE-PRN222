@@ -1,5 +1,35 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
+﻿@model BusinessObjects.Project
+
+<h2>Project Details</h2>
+<p>Title: @Model.Title</p>
+<p>Summary: @Model.Summary</p>
+<p>Approval Status: @(Model.IsApproved == true ? "Approved" : "Pending")</p>
+
+<h3>Scores</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Lecturer</th>
+            <th>Score</th>
+            <th>Comment</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var score in Model.Scores)
+        {
+            <tr>
+                <td>@score.Lecturer.FullName</td>
+                <td>@score.Score1</td>
+                <td>@score.Comment</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<form asp-action="ApproveProject" asp-route-id="@Model.Id">
+    <button type="submit">Approve</button>
+</form>
+
+<form asp-action="RejectProject" asp-route-id="@Model.Id">
+    <button type="submit">Reject</button>
+</form>
