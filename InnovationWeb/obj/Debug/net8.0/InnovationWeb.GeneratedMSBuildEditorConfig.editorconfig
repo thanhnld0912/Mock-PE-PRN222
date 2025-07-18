@@ -40,6 +40,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJcR2V0VGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/FPT/PE PRN222/InnovationWeb/Views/Lecturer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/FPT/PE PRN222/InnovationWeb/Views/Lecturer/ProjectDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVjdHVyZXJcUHJvamVjdERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

@@ -3,16 +3,60 @@
   "WorkspaceRootPath": "E:\\FPT\\PE PRN222\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\innovationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\innovationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\student\\getscoresbyprojectid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\student\\getscoresbyprojectid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\lecturer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\lecturer\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\lecturer\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\lecturer\\getteam.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,22 +99,6 @@
       "RelativeMoniker": "D:0:0:{2B9D5A0D-531E-41F3-9635-4DABAA9462FB}|Service\\Service.csproj|solutionrelative:service\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|e:\\fpt\\pe prn222\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3474C400-67D8-4D67-A606-F9256E9B0AA4}|Repository\\Repository.csproj|solutionrelative:repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -97,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\scoredao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\innovationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\innovationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|e:\\fpt\\pe prn222\\dataaccessobjects\\userdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -131,20 +155,12 @@
       "RelativeMoniker": "D:0:0:{BDBA1279-86C9-4F87-864E-DAB6BC2DE088}|DataAccessObjects\\DAO.csproj|solutionrelative:dataaccessobjects\\dao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\student\\createproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\student\\createproject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\models\\createprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\models\\createprojectmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -157,14 +173,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|e:\\fpt\\pe prn222\\innovationweb\\views\\lecturer\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9F98F57D-0552-4730-9ADB-951C4C534B7F}|InnovationWeb\\InnovationWeb.csproj|solutionrelative:innovationweb\\views\\lecturer\\projectdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -174,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 26,
           "Children": [
             {
               "$type": "Bookmark",
@@ -250,33 +258,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InnovationWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InnovationWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T01:51:13.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\Index.cshtml",
+              "RelativeDocumentMoniker": "InnovationWeb\\Views\\Lecturer\\Index.cshtml",
+              "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\Index.cshtml",
+              "RelativeToolTip": "InnovationWeb\\Views\\Lecturer\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-18T01:12:22.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\appsettings.json",
               "RelativeDocumentMoniker": "InnovationWeb\\appsettings.json",
               "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\appsettings.json",
               "RelativeToolTip": "InnovationWeb\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-17T14:51:20.335Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Program.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Program.cs",
               "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Program.cs",
               "RelativeToolTip": "InnovationWeb\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:45:56.69Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "GetScoresByProjectId.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Student\\GetScoresByProjectId.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Student\\GetScoresByProjectId.cshtml",
@@ -284,12 +317,11 @@
               "RelativeToolTip": "InnovationWeb\\Views\\Student\\GetScoresByProjectId.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T14:45:27.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:45:27.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "GetTeam.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\GetTeam.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Lecturer\\GetTeam.cshtml",
@@ -297,51 +329,48 @@
               "RelativeToolTip": "InnovationWeb\\Views\\Lecturer\\GetTeam.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T14:44:49.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:44:49.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Service",
+              "DocumentIndex": 21,
+              "Title": "Service.csproj",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Service\\Service.csproj",
               "RelativeDocumentMoniker": "Service\\Service.csproj",
               "ToolTip": "E:\\FPT\\PE PRN222\\Service\\Service.csproj",
               "RelativeToolTip": "Service\\Service.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-17T14:26:00.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:26:00.22Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Repository",
+              "DocumentIndex": 22,
+              "Title": "Repository.csproj",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\Repository.csproj",
               "RelativeDocumentMoniker": "Repository\\Repository.csproj",
               "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\Repository.csproj",
               "RelativeToolTip": "Repository\\Repository.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-17T14:25:52.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:25:52.037Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 0,
               "Title": "InnovationDbContext.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\InnovationDbContext.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\InnovationDbContext.cs",
               "ToolTip": "E:\\FPT\\PE PRN222\\DataAccessObjects\\InnovationDbContext.cs",
               "RelativeToolTip": "DataAccessObjects\\InnovationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwCAAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T14:15:35.635Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "Project.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\BusinessObjects\\Project.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Project.cs",
@@ -349,12 +378,11 @@
               "RelativeToolTip": "BusinessObjects\\Project.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T14:15:20.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T14:15:20.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "LoginModel.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Models\\LoginModel.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Models\\LoginModel.cs",
@@ -366,19 +394,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Login.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Home\\Login.cshtml",
               "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Login.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Home\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T03:18:08.091Z"
+              "WhenOpened": "2025-07-17T03:18:08.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "StudentController.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\StudentController.cs",
@@ -390,7 +419,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "CreateTeam.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Student\\CreateTeam.cshtml",
@@ -402,7 +431,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 38,
               "Title": "CreateProject.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Student\\CreateProject.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Student\\CreateProject.cshtml",
@@ -414,20 +443,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 7,
               "Title": "LecturerController.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\LecturerController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\LecturerController.cs",
               "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\LecturerController.cs",
               "RelativeToolTip": "InnovationWeb\\Controllers\\LecturerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:15:27.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T03:15:27.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 39,
               "Title": "CreateProjectModel.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Models\\CreateProjectModel.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Models\\CreateProjectModel.cs",
@@ -439,31 +467,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T03:15:11.949Z"
+              "WhenOpened": "2025-07-17T03:15:11.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 13,
               "Title": "ProjectDetails.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
               "ToolTip": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
               "RelativeToolTip": "InnovationWeb\\Views\\Lecturer\\ProjectDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-17T03:14:56.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "GetProject.cshtml",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
               "RelativeDocumentMoniker": "InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
@@ -471,12 +500,11 @@
               "RelativeToolTip": "InnovationWeb\\Views\\Lecturer\\GetProject.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-17T02:53:01.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:53:01.416Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "ScoreController.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\ScoreController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\ScoreController.cs",
@@ -484,12 +512,11 @@
               "RelativeToolTip": "InnovationWeb\\Controllers\\ScoreController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:52:24.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:52:24.024Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "TeamController.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\TeamController.cs",
@@ -497,12 +524,11 @@
               "RelativeToolTip": "InnovationWeb\\Controllers\\TeamController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:52:00.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:52:00.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "UserController.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\UserController.cs",
@@ -510,12 +536,11 @@
               "RelativeToolTip": "InnovationWeb\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:51:48.254Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:51:48.254Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\InnovationWeb\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "InnovationWeb\\Controllers\\ProjectController.cs",
@@ -523,12 +548,11 @@
               "RelativeToolTip": "InnovationWeb\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:51:23.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:51:23.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "ProjectService.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Service\\ProjectService.cs",
               "RelativeDocumentMoniker": "Service\\ProjectService.cs",
@@ -536,12 +560,11 @@
               "RelativeToolTip": "Service\\ProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:50:59.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:50:59.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "IProjectService.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Service\\IProjectService.cs",
               "RelativeDocumentMoniker": "Service\\IProjectService.cs",
@@ -549,38 +572,35 @@
               "RelativeToolTip": "Service\\IProjectService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:50:08.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:50:08.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "ScoreRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\ScoreRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ScoreRepository.cs",
               "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\ScoreRepository.cs",
               "RelativeToolTip": "Repository\\ScoreRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAuwCsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA4wCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:48:29.04Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:48:29.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 10,
               "Title": "ProjectRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ProjectRepository.cs",
               "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\ProjectRepository.cs",
               "RelativeToolTip": "Repository\\ProjectRepository.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAuwCsAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:48:20.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:48:20.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\UserRepository.cs",
@@ -588,12 +608,11 @@
               "RelativeToolTip": "Repository\\UserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:48:06.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:48:06.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "TeamRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\TeamRepository.cs",
               "RelativeDocumentMoniker": "Repository\\TeamRepository.cs",
@@ -601,38 +620,36 @@
               "RelativeToolTip": "Repository\\TeamRepository.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAmwCsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:47:57.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:47:57.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 9,
               "Title": "IScoreRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\IScoreRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IScoreRepository.cs",
               "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\IScoreRepository.cs",
               "RelativeToolTip": "Repository\\IScoreRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:47:43.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:47:43.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 6,
               "Title": "IProjectRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IProjectRepository.cs",
               "ToolTip": "E:\\FPT\\PE PRN222\\Repository\\IProjectRepository.cs",
               "RelativeToolTip": "Repository\\IProjectRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-17T02:47:32.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "ITeamRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\ITeamRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ITeamRepository.cs",
@@ -640,12 +657,11 @@
               "RelativeToolTip": "Repository\\ITeamRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:47:17.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:47:17.047Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\Repository\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\IUserRepository.cs",
@@ -653,12 +669,11 @@
               "RelativeToolTip": "Repository\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:47:04.808Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:47:04.808Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "IScoreDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IScoreDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\IScoreDAO.cs",
@@ -666,12 +681,11 @@
               "RelativeToolTip": "DataAccessObjects\\IScoreDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:46:31.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:46:31.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "IProjectDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IProjectDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\IProjectDAO.cs",
@@ -679,12 +693,11 @@
               "RelativeToolTip": "DataAccessObjects\\IProjectDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:46:20.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:46:20.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "ITeamDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ITeamDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\ITeamDAO.cs",
@@ -692,12 +705,11 @@
               "RelativeToolTip": "DataAccessObjects\\ITeamDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:46:09.569Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:46:09.569Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "IUserDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\IUserDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\IUserDAO.cs",
@@ -705,12 +717,11 @@
               "RelativeToolTip": "DataAccessObjects\\IUserDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:45:58.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:45:58.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "ScoreDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ScoreDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\ScoreDAO.cs",
@@ -718,12 +729,11 @@
               "RelativeToolTip": "DataAccessObjects\\ScoreDAO.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAlwB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:43:25.261Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:43:25.261Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "ProjectDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\ProjectDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\ProjectDAO.cs",
@@ -731,12 +741,11 @@
               "RelativeToolTip": "DataAccessObjects\\ProjectDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:43:11.151Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:43:11.151Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "TeamDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\TeamDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\TeamDAO.cs",
@@ -744,12 +753,11 @@
               "RelativeToolTip": "DataAccessObjects\\TeamDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:42:58.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:42:58.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "UserDAO.cs",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\UserDAO.cs",
               "RelativeDocumentMoniker": "DataAccessObjects\\UserDAO.cs",
@@ -757,12 +765,11 @@
               "RelativeToolTip": "DataAccessObjects\\UserDAO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T02:42:34.532Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:42:34.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "DAO.csproj",
               "DocumentMoniker": "E:\\FPT\\PE PRN222\\DataAccessObjects\\DAO.csproj",
               "RelativeDocumentMoniker": "DataAccessObjects\\DAO.csproj",
@@ -770,8 +777,7 @@
               "RelativeToolTip": "DataAccessObjects\\DAO.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-17T02:42:22.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T02:42:22.024Z"
             }
           ]
         },

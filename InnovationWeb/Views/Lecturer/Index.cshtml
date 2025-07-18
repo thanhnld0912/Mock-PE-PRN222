@@ -1,0 +1,27 @@
+﻿@model IEnumerable<BusinessObjects.Project>
+
+<h2>Projects</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Project Title</th>
+            <th>Team Name</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var project in Model)
+        {
+            <tr>
+                <td>@project.Title</td>
+                <td>@project.Team.TeamName</td>
+                <td>@(project.IsApproved.HasValue && project.IsApproved.Value ? "Approved" : "Pending")</td>
+                <td>
+                    <a href="@Url.Action("ProjectDetails", "Lecturer", new { projectId = project.Id })">View Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

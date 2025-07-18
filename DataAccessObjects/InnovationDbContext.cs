@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Microsoft.EntityFrameworkCore;
 using BusinessObjects;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 namespace DAO;
 
 public partial class InnovationDbContext : DbContext
@@ -23,8 +24,22 @@ public partial class InnovationDbContext : DbContext
 
     public virtual DbSet<User> Users { get; set; }
 
+    //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    //    => optionsBuilder.UseSqlServer("Server=(local);Database=InnovationProjectsDB;User Id=sa;Password=ab123;TrustServerCertificate=True");
+
+
+    private string GetConnectionString()
+    {
+        IConfiguration configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", true, true).Build();
+        return configuration["ConnectionStrings:DefaultConnectionString"];
+    }
+
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        => optionsBuilder.UseSqlServer("Server=(local);Database=InnovationProjectsDB;User Id=sa;Password=ab123;TrustServerCertificate=True");
+    {
+        optionsBuilder.UseSqlServer(GetConnectionString());
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
